@@ -1,0 +1,518 @@
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.Negocio.dll.config
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.Negocio.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.Negocio.pdb
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.DALC.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.DALC.pdb
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.DALC.dll.config
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.csprojAssemblyReference.cache
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.csproj.CoreCompileInputs.cache
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.csproj.CopyComplete
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.pdb
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.csprojAssemblyReference.cache
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.pdb
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.Negocio.dll.config
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.Negocio.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.Negocio.pdb
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.DALC.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.DALC.pdb
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.DALC.dll.config
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.csproj.CopyComplete
+C:\Users\Mauri\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.Negocio.dll.config
+C:\Users\Mauri\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.Negocio.dll
+C:\Users\Mauri\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.Negocio.pdb
+C:\Users\Mauri\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.DALC.dll
+C:\Users\Mauri\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Mauri\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\Mauri\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.DALC.pdb
+C:\Users\Mauri\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.DALC.dll.config
+C:\Users\Mauri\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\Mauri\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.csprojAssemblyReference.cache
+C:\Users\Mauri\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Mauri\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.csproj.CopyComplete
+C:\Users\Mauri\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.dll
+C:\Users\Mauri\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.pdb
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.Negocio.dll.config
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.Negocio.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.Negocio.pdb
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.DALC.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.DALC.pdb
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.DALC.dll.config
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.csprojAssemblyReference.cache
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.csproj.CopyComplete
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.pdb
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.csprojAssemblyReference.cache
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.csproj.CoreCompileInputs.cache
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.pdb
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.Negocio.dll.config
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.Negocio.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.Negocio.pdb
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\EntityFramework.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.DALC.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.DALC.pdb
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.DALC.dll.config
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\EntityFramework.xml
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.csproj.CopyComplete
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\EntityFramework.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\EnvDTE.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\stdole.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.MSXML.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\EntityFramework.xml
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PORTAFOLIO\Visual repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\EnvDTE.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\stdole.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.MSXML.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\repos\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\EnvDTE.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\stdole.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauri\Downloads\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\EnvDTE.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\stdole.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Javiera\Downloads\FeriaVirtual 1\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.Negocio.dll.config
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.Negocio.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.Negocio.pdb
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.DALC.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\EnvDTE.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\stdole.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.DALC.pdb
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.DALC.dll.config
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.csprojAssemblyReference.cache
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.csproj.CopyComplete
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.dll
+C:\Users\Brian\Desktop\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.pdb
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.Negocio.dll.config
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.Negocio.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.Negocio.pdb
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.DALC.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\EnvDTE.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\stdole.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.DALC.pdb
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.DALC.dll.config
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.csprojAssemblyReference.cache
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.csproj.CopyComplete
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (2)\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.pdb
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.Negocio.dll.config
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.Negocio.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.Negocio.pdb
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\EntityFramework.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.DALC.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\EnvDTE.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\stdole.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\Microsoft.MSXML.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.DALC.pdb
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\FeriaVirtual.DALC.dll.config
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\EntityFramework.xml
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.csprojAssemblyReference.cache
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.csproj.CoreCompileInputs.cache
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.csproj.CopyComplete
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.dll
+C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.Negocio\obj\Debug\FeriaVirtual.Negocio.pdb
