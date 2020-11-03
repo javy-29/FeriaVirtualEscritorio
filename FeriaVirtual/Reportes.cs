@@ -21,8 +21,6 @@ namespace FeriaVirtual
         private void Reportes_Load(object sender, EventArgs e)
         {
             // TODO: esta línea de código carga datos en la tabla 'DataSetBDA.CLIENTE' Puede moverla o quitarla según sea necesario.
-            this.CLIENTETableAdapter.Fill(this.DataSetBDA.CLIENTE);
-
 
             this.reportViewer1.RefreshReport();
         }

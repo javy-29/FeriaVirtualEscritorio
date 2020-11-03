@@ -21,7 +21,7 @@ namespace FeriaVirtual
         {
             InitializeComponent();
         }
-        OracleConnection Conn = new OracleConnection("DATA SOURCE = xe ;PASSWORD = 1234 ;USER ID = FeriaV");
+        OracleConnection Conn = new OracleConnection("DATA SOURCE = xe ;PASSWORD = 1234 ;USER ID = FeriaVi");
 
 
         private void btnCerrarUsuario_Click(object sender, EventArgs e)
@@ -54,6 +54,8 @@ namespace FeriaVirtual
             contra.FECHA_VENCIMIENTO = fechater.ToString(formatoter);
             
             contra.VIGENCIA = Convert.ToString(comboBoxVigencia.Text);
+
+            contra.PRODUCTOR_RUT_PRODUC = Convert.ToString(txtrutproductor.Text);
 
         }
         private void btnRegistrarContrato_Click(object sender, EventArgs e)
@@ -139,6 +141,11 @@ namespace FeriaVirtual
             }
             else
                 MessageBox.Show("Seleccione una fila");
+        }
+
+        private void txtrutproductor_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -11,7 +11,7 @@ namespace FeriaVirtual.DALC
 {
     public class AdministradorDALC
     {
-        OracleConnection conn = new OracleConnection("DATA SOURCE = xe ; PASSWORD = 1234 ;USER ID = FeriaV");
+        OracleConnection conn = new OracleConnection("DATA SOURCE = xe ; PASSWORD = 1234 ;USER ID = FeriaVI");
 
         public object DatabaseHelper { get; private set; }
 
@@ -29,21 +29,22 @@ namespace FeriaVirtual.DALC
             return resultado;
         }
 
-        public int Agregar(int id_administrador, string rutadmin, string nombreadmin, string apellido_pateradmin, string apellido_materadmin,  int telefonoadmin, string correoadmin, string passadmin, string rol)
+        public int Agregar( string RUT_ADMIN, string NOM_ADMIN, string APELLIDOP_ADMIN, 
+            string APELLIDOM_ADMIN,  int TELEFONO_ADMIN, string CORREO_ADMIN,
+            string PASS_ADMIN, string ROL_ID_ROL)
         {
 
             conn.Open();
             OracleCommand comando = new OracleCommand("PACK_MANT_ADMINISTRADOR.SP_INGRESAR_ADMINISTRADOR", conn);
             comando.CommandType = System.Data.CommandType.StoredProcedure;
-            comando.Parameters.Add("ID_ADMINISTRADOR", OracleType.Number).Value = id_administrador;
-            comando.Parameters.Add("RUT", OracleType.NVarChar).Value = rutadmin;
-            comando.Parameters.Add("NOMBRE", OracleType.NVarChar).Value = nombreadmin;
-            comando.Parameters.Add("APELLIDO_PATERNO", OracleType.NVarChar).Value = apellido_pateradmin;
-            comando.Parameters.Add("APELLIDO_MATERNO", OracleType.NVarChar).Value = apellido_materadmin;
-            comando.Parameters.Add("TELEFONO", OracleType.Number).Value = telefonoadmin;
-            comando.Parameters.Add("CORREO", OracleType.NVarChar).Value = correoadmin;
-            comando.Parameters.Add("CONTRASEÑA", OracleType.NVarChar).Value = passadmin;
-            comando.Parameters.Add("ROL", OracleType.NVarChar).Value = rol;
+            comando.Parameters.Add("RUT", OracleType.NVarChar).Value = RUT_ADMIN;
+            comando.Parameters.Add("NOMBRE", OracleType.NVarChar).Value = NOM_ADMIN;
+            comando.Parameters.Add("APELLIDO_PATERNO", OracleType.NVarChar).Value = APELLIDOP_ADMIN;
+            comando.Parameters.Add("APELLIDO_MATERNO", OracleType.NVarChar).Value = APELLIDOM_ADMIN;
+            comando.Parameters.Add("TELEFONO", OracleType.Number).Value = TELEFONO_ADMIN;
+            comando.Parameters.Add("CORREO", OracleType.NVarChar).Value = CORREO_ADMIN;
+            comando.Parameters.Add("CONTRASEÑA", OracleType.NVarChar).Value = PASS_ADMIN;
+            comando.Parameters.Add("ROL", OracleType.NVarChar).Value = ROL_ID_ROL;
 
 
             int resultado = comando.ExecuteNonQuery();
@@ -51,31 +52,31 @@ namespace FeriaVirtual.DALC
 
         }
 
-        public int Modificar(int id_administrador, string nombreadmin, string apellido_pateradmin, string apellido_materadmin, int telefonoadmin, string correoadmin, string passadmin)
+        public int Modificar(string RUT_ADMIN, string NOM_ADMIN, string APELLIDOP_ADMIN, string APELLIDOM_ADMIN, int TELEFONO_ADMIN, string CORREO_ADMIN, string PASS_ADMIN )
         {
 
             conn.Open();
             OracleCommand comando = new OracleCommand("PACK_MANT_ADMINISTRADOR.SP_MODIFICAR_ADMINISTRADOR", conn);
             comando.CommandType = System.Data.CommandType.StoredProcedure;
-            comando.Parameters.Add("ID_ADMINISTRADOR", OracleType.Number).Value = id_administrador;
-            comando.Parameters.Add("NOMBRE", OracleType.NVarChar).Value = nombreadmin;
-            comando.Parameters.Add("APELLIDO_PATERNO", OracleType.NVarChar).Value = apellido_pateradmin;
-            comando.Parameters.Add("APELLIDO_MATERNO", OracleType.NVarChar).Value = apellido_materadmin;
-            comando.Parameters.Add("TELEFONO", OracleType.Number).Value = telefonoadmin;
-            comando.Parameters.Add("CORREO", OracleType.NVarChar).Value = correoadmin;
-            comando.Parameters.Add("CONTRASEÑA", OracleType.NVarChar).Value = passadmin;
+            comando.Parameters.Add("RUT", OracleType.NVarChar).Value = RUT_ADMIN;
+            comando.Parameters.Add("NOMBRE", OracleType.NVarChar).Value = NOM_ADMIN;
+            comando.Parameters.Add("APELLIDO_PATERNO", OracleType.NVarChar).Value = APELLIDOP_ADMIN;
+            comando.Parameters.Add("APELLIDO_MATERNO", OracleType.NVarChar).Value = APELLIDOM_ADMIN;
+            comando.Parameters.Add("TELEFONO", OracleType.Number).Value = TELEFONO_ADMIN;
+            comando.Parameters.Add("CORREO", OracleType.NVarChar).Value = CORREO_ADMIN;
+            comando.Parameters.Add("CONTRASEÑA", OracleType.NVarChar).Value = PASS_ADMIN;
 
             int resultado = comando.ExecuteNonQuery();
             return resultado;
 
         }
 
-        public int Eliminar(int id_administrador) 
+        public int Eliminar(string RUT_ADMIN) 
         {
             conn.Open();
             OracleCommand comando = new OracleCommand("PACK_MANT_ADMINISTRADOR.SP_ELIMINAR_ADMINISTRADOR", conn);
             comando.CommandType = System.Data.CommandType.StoredProcedure;
-            comando.Parameters.Add("ID_ADMINISTRADOR", OracleType.Number).Value = id_administrador;
+            comando.Parameters.Add("RUT_ADMINISTRADOR", OracleType.Number).Value = RUT_ADMIN;
             int resultado = comando.ExecuteNonQuery();
             return resultado;
         }

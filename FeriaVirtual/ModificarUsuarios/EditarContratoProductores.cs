@@ -21,7 +21,7 @@ namespace FeriaVirtual.ModificarUsuarios
             InitializeComponent();
         }
 
-        OracleConnection Conn = new OracleConnection("DATA SOURCE = xe ;PASSWORD = 1234 ;USER ID = FeriaV");
+        OracleConnection Conn = new OracleConnection("DATA SOURCE = xe ;PASSWORD = 1234 ;USER ID = FeriaVi");
 
         public void ModificarAdministrador(ref Contrato contra)
         {

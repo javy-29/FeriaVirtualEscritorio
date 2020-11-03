@@ -24,7 +24,7 @@ namespace FeriaVirtual
             this.Close();
         }
 
-        OracleConnection Conn = new OracleConnection("DATA SOURCE = xe ;PASSWORD = 1234 ;USER ID = FeriaV");
+        OracleConnection Conn = new OracleConnection("DATA SOURCE = xe ;PASSWORD = 1234 ;USER ID = FeriaVi");
 
         private void AbrirFormularioUsuarios<MiPanel2>() where MiPanel2 : Form, new()
         {
@@ -46,23 +46,6 @@ namespace FeriaVirtual
             {
                 formulario.BringToFront();
             }
-        }
-
-
-        private void btnClienteUsuario_Click(object sender, EventArgs e)
-        {
-            AbrirFormularioUsuarios<RegistroCliente>();
-            Conn.Close();
-        }
-
-        private void btnProductores_Click(object sender, EventArgs e)
-        {
-            AbrirFormularioUsuarios<RegistroProductores>();
-        }
-
-        private void btnTransportista_Click(object sender, EventArgs e)
-        {
-            AbrirFormularioUsuarios<RegistroTransportista>();
         }
 
         private void btnConsultor_Click(object sender, EventArgs e)

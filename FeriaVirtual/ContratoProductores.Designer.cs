@@ -46,8 +46,10 @@
             this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
             this.comboBoxVigencia = new System.Windows.Forms.ComboBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.txtrutproductor = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.dgvContrato)).BeginInit();
             this.SuspendLayout();
             // 
@@ -237,16 +239,6 @@
             this.label3.TabIndex = 92;
             this.label3.Text = "Numero de Contrato ";
             // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(570, 184);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(77, 17);
-            this.label2.TabIndex = 91;
-            this.label2.Text = "ID Contrato";
-            // 
             // comboBoxVigencia
             // 
             this.comboBoxVigencia.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
@@ -259,11 +251,41 @@
             this.comboBoxVigencia.Size = new System.Drawing.Size(238, 21);
             this.comboBoxVigencia.TabIndex = 104;
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(570, 184);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(77, 17);
+            this.label2.TabIndex = 91;
+            this.label2.Text = "ID Contrato";
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.Location = new System.Drawing.Point(570, 358);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(89, 17);
+            this.label7.TabIndex = 105;
+            this.label7.Text = "Rut Productor";
+            // 
+            // txtrutproductor
+            // 
+            this.txtrutproductor.Location = new System.Drawing.Point(745, 355);
+            this.txtrutproductor.Name = "txtrutproductor";
+            this.txtrutproductor.Size = new System.Drawing.Size(244, 20);
+            this.txtrutproductor.TabIndex = 106;
+            this.txtrutproductor.TextChanged += new System.EventHandler(this.txtrutproductor_TextChanged);
+            // 
             // ContratoProductores
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1050, 600);
+            this.Controls.Add(this.txtrutproductor);
+            this.Controls.Add(this.label7);
             this.Controls.Add(this.comboBoxVigencia);
             this.Controls.Add(this.dtpFechaTermino);
             this.Controls.Add(this.dtpFechaInicio);
@@ -311,7 +333,9 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Label label2;
         private System.Windows.Forms.ComboBox comboBoxVigencia;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.TextBox txtrutproductor;
     }
 }

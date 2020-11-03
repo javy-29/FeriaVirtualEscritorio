@@ -31,15 +31,16 @@
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Reportes));
             Microsoft.Reporting.WinForms.ReportDataSource reportDataSource1 = new Microsoft.Reporting.WinForms.ReportDataSource();
+            this.CLIENTEBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.label1 = new System.Windows.Forms.Label();
             this.btnCerrarUsuario = new System.Windows.Forms.Button();
             this.reportViewer1 = new Microsoft.Reporting.WinForms.ReportViewer();
-            this.DataSetBDA = new FeriaVirtual.DataSetBDA();
-            this.CLIENTEBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.CLIENTETableAdapter = new FeriaVirtual.DataSetBDATableAdapters.CLIENTETableAdapter();
-            ((System.ComponentModel.ISupportInitialize)(this.DataSetBDA)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.CLIENTEBindingSource)).BeginInit();
             this.SuspendLayout();
+            // 
+            // CLIENTEBindingSource
+            // 
+            this.CLIENTEBindingSource.DataMember = "CLIENTE";
             // 
             // label1
             // 
@@ -76,20 +77,6 @@
             this.reportViewer1.Size = new System.Drawing.Size(644, 576);
             this.reportViewer1.TabIndex = 68;
             // 
-            // DataSetBDA
-            // 
-            this.DataSetBDA.DataSetName = "DataSetBDA";
-            this.DataSetBDA.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
-            // 
-            // CLIENTEBindingSource
-            // 
-            this.CLIENTEBindingSource.DataMember = "CLIENTE";
-            this.CLIENTEBindingSource.DataSource = this.DataSetBDA;
-            // 
-            // CLIENTETableAdapter
-            // 
-            this.CLIENTETableAdapter.ClearBeforeFill = true;
-            // 
             // Reportes
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -102,7 +89,6 @@
             this.Name = "Reportes";
             this.Text = "Reportes";
             this.Load += new System.EventHandler(this.Reportes_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.DataSetBDA)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.CLIENTEBindingSource)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -114,7 +100,6 @@
         private System.Windows.Forms.Button btnCerrarUsuario;
         private Microsoft.Reporting.WinForms.ReportViewer reportViewer1;
         private System.Windows.Forms.BindingSource CLIENTEBindingSource;
-        private DataSetBDA DataSetBDA;
-        private DataSetBDATableAdapters.CLIENTETableAdapter CLIENTETableAdapter;
+
     }
 }

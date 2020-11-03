@@ -29,8 +29,6 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(EditarAdmin));
-            this.txtEditarIdAdmin = new System.Windows.Forms.TextBox();
-            this.label9 = new System.Windows.Forms.Label();
             this.txtEditarCorreoAdmin = new System.Windows.Forms.TextBox();
             this.label7 = new System.Windows.Forms.Label();
             this.comboBoxEditarRol = new System.Windows.Forms.ComboBox();
@@ -49,23 +47,6 @@
             this.label1 = new System.Windows.Forms.Label();
             this.btnRegistrarAdmin = new System.Windows.Forms.Button();
             this.SuspendLayout();
-            // 
-            // txtEditarIdAdmin
-            // 
-            this.txtEditarIdAdmin.Location = new System.Drawing.Point(138, 51);
-            this.txtEditarIdAdmin.Name = "txtEditarIdAdmin";
-            this.txtEditarIdAdmin.Size = new System.Drawing.Size(238, 20);
-            this.txtEditarIdAdmin.TabIndex = 105;
-            // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.Location = new System.Drawing.Point(50, 51);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(82, 20);
-            this.label9.TabIndex = 104;
-            this.label9.Text = "Id Usuario";
             // 
             // txtEditarCorreoAdmin
             // 
@@ -136,7 +117,7 @@
             // 
             // txtEditarRutAdmin
             // 
-            this.txtEditarRutAdmin.Location = new System.Drawing.Point(138, 79);
+            this.txtEditarRutAdmin.Location = new System.Drawing.Point(144, 53);
             this.txtEditarRutAdmin.Name = "txtEditarRutAdmin";
             this.txtEditarRutAdmin.Size = new System.Drawing.Size(238, 20);
             this.txtEditarRutAdmin.TabIndex = 94;
@@ -205,7 +186,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(96, 79);
+            this.label1.Location = new System.Drawing.Point(89, 53);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(36, 20);
             this.label1.TabIndex = 87;
@@ -231,8 +212,6 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.txtEditarIdAdmin);
-            this.Controls.Add(this.label9);
             this.Controls.Add(this.txtEditarCorreoAdmin);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.btnRegistrarAdmin);
@@ -258,7 +237,6 @@
         }
 
         #endregion
-        private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Label label10;
@@ -267,7 +245,6 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
-        public System.Windows.Forms.TextBox txtEditarIdAdmin;
         public System.Windows.Forms.TextBox txtEditarCorreoAdmin;
         public System.Windows.Forms.ComboBox comboBoxEditarRol;
         public System.Windows.Forms.TextBox txtEditarContraseñaAdmin;

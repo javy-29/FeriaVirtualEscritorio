@@ -14,7 +14,7 @@ namespace FeriaVirtual.Negocio
 {
     public class Contrato
     {
-        OracleConnection conn = new OracleConnection("DATA SOURCE = xe ; PASSWORD = 1234 ;USER ID = FeriaV");
+        OracleConnection conn = new OracleConnection("DATA SOURCE = xe ; PASSWORD = 1234 ;USER ID = FeriaVi");
 
 
         public int ID_CONTRA { get; set; }
@@ -22,10 +22,11 @@ namespace FeriaVirtual.Negocio
         public string FECHA_INICIO{ get; set; }
         public string FECHA_VENCIMIENTO { get; set; }
         public string VIGENCIA { get; set; }
+        public string PRODUCTOR_RUT_PRODUC { get; set; }
 
         public int Agregar()
         {
-            return new ContratoDALC().Agregar(this.ID_CONTRA, this.NUME_CONTRATO, this.FECHA_INICIO, this.FECHA_VENCIMIENTO, this.VIGENCIA);
+            return new ContratoDALC().Agregar(this.ID_CONTRA, this.NUME_CONTRATO, this.FECHA_INICIO, this.FECHA_VENCIMIENTO, this.VIGENCIA, this.PRODUCTOR_RUT_PRODUC);
     
         }
 

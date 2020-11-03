@@ -21,18 +21,18 @@ namespace FeriaVirtual.ModificarUsuarios
             InitializeComponent();
         }
 
-        OracleConnection Conn = new OracleConnection("DATA SOURCE = xe ;PASSWORD = 1234 ;USER ID = FeriaV");
+        OracleConnection Conn = new OracleConnection("DATA SOURCE = xe ;PASSWORD = 1234 ;USER ID = FeriaVi");
 
         public void ModificarCliente(ref Consultor consul)
         {
-            consul.ID_CONSULTOR = Convert.ToInt32(txtEditarIdConsultor.Text);
+            consul.RUT_CONSULTOR = txtEditarRutConsultor.Text;
             consul.NOM_CONSULTOR = txtEditarNombreConsultor.Text;
             consul.APELLIDOP_CONSULTOR = txtEditarApellidoPaternoConsultor.Text;
             consul.APELLIDOM_CONSULTOR = txtEditarApellidoMaternoConsultor.Text;
             consul.CORREO_CONSULTOR = txtEditarCorreoConsultor.Text;
             consul.NUMERO_CONSULTOR = Convert.ToInt32(txtEditarTelefonoConsultor.Text);
             consul.PASS_CONSULTOR = txtEditarContraseñaConsultor.Text;
-            consul.ROL_ID_ROL = Convert.ToString(comboBoxEditarRol.Text);
+            //consul.ROL_ID_ROL = textEditarConsulto.Text;
         }
 
         private void btnRegistrarConsultor_Click(object sender, EventArgs e)

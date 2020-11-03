@@ -16,7 +16,7 @@ namespace FeriaVirtual
 {
     public partial class Usuario : Form
     {
-        OracleConnection Conn = new OracleConnection("DATA SOURCE = xe ;PASSWORD = 1234 ;USER ID = FeriaV");
+        OracleConnection Conn = new OracleConnection("DATA SOURCE = xe ;PASSWORD = 1234 ;USER ID = FeriaVi");
 
         private bool Editar = false;
 
@@ -29,13 +29,29 @@ namespace FeriaVirtual
         {
             this.Close();
         }
-        
+
+        private void btnClienteIn_Click(object sender, EventArgs e)
+        {
+            Conn.Open();
+            OracleCommand comando = new OracleCommand("MostrarClienteInterno", Conn);
+            comando.CommandType = System.Data.CommandType.StoredProcedure;
+            comando.Parameters.Add("listarCliIN", OracleType.Cursor).Direction = ParameterDirection.Output;
+
+            OracleDataAdapter adap = new OracleDataAdapter();
+            adap.SelectCommand = comando;
+            DataTable tabla = new DataTable();
+            adap.Fill(tabla);
+            dgvListar.DataSource = tabla;
+
+            Conn.Close();
+        }
+
         private void btnCliente_Click(object sender, EventArgs e)
         {
             Conn.Open();
-            OracleCommand comando = new OracleCommand("MostrarCliente", Conn);
+            OracleCommand comando = new OracleCommand("MostrarClienteExterno", Conn);
             comando.CommandType = System.Data.CommandType.StoredProcedure;
-            comando.Parameters.Add("listar", OracleType.Cursor).Direction = ParameterDirection.Output;
+            comando.Parameters.Add("listarCliEX", OracleType.Cursor).Direction = ParameterDirection.Output;
 
             OracleDataAdapter adap = new OracleDataAdapter();
             adap.SelectCommand = comando;
@@ -110,9 +126,6 @@ namespace FeriaVirtual
             Conn.Close();
         }
 
-        EditarCliente modificar = new EditarCliente();
-        EditarProductores modificarProd = new EditarProductores();
-        EditarTransportista modificarTrans = new EditarTransportista();
         EditarConsultores modificarConsul = new EditarConsultores();
         EditarAdmin modificarAdmin = new EditarAdmin();
 
@@ -122,22 +135,7 @@ namespace FeriaVirtual
             if (dgvListar.SelectedRows.Count > 0)
             {
                 
-                modificar.txtEditarIdUsuario.Text = dgvListar.CurrentRow.Cells["ID_CLIENTE"].Value.ToString();
-                modificar.txtEditarRutCliente.Text = dgvListar.CurrentRow.Cells["RUT_CLIENTE"].Value.ToString();
-                modificar.txtEditarNombreCliente.Text = dgvListar.CurrentRow.Cells["NOM_CLIENTE"].Value.ToString();
-                modificar.txtEditarApellidoPCliente.Text = dgvListar.CurrentRow.Cells["APELLIDOP_CLIENTE"].Value.ToString();
-                modificar.txtEditarApellidoMCliente.Text = dgvListar.CurrentRow.Cells["APELLIDOM_CLIENTE"].Value.ToString();
-                modificar.txtEditarDireccionCliente.Text = dgvListar.CurrentRow.Cells["DIRECCION_RESIDENCIAL"].Value.ToString();
-                modificar.txtEditarCiudadCliente.Text = dgvListar.CurrentRow.Cells["CIUDAD_RESIDENCIAL"].Value.ToString();
-                modificar.txtEditarCorreoCliente.Text = dgvListar.CurrentRow.Cells["CORREO_ELECTRONICO"].Value.ToString();
-                modificar.txtEditarTelefonoCliente.Text = dgvListar.CurrentRow.Cells["NUMERO_TELEFONICO"].Value.ToString();
-                modificar.comboBoxEditarClienteExterno.Text = dgvListar.CurrentRow.Cells["CLIENTE_EXTRANJERO"].Value.ToString();
-                modificar.txtEditarContraseñaCliente.Text = dgvListar.CurrentRow.Cells["PASS_CLIENTE"].Value.ToString();
-                modificar.comboBoxEditarRol.Text = dgvListar.CurrentRow.Cells["ROL_ID_ROL"].Value.ToString();
-                
-                modificar.txtEditarIdUsuario.Enabled = false;
-                modificar.txtEditarRutCliente.Enabled = false;
-                modificar.ShowDialog();
+               
             }
             else
                 MessageBox.Show("Seleccione una fila");
@@ -149,23 +147,7 @@ namespace FeriaVirtual
         {
             if (dgvListar.SelectedRows.Count > 0)
             {
-                modificarProd.txtIdEditarUsuarioProductor.Text = dgvListar.CurrentRow.Cells["ID_PRODUC"].Value.ToString();
-                modificarProd.txtEditarRutProductor.Text = dgvListar.CurrentRow.Cells["RUT_PRODUC"].Value.ToString();
-                modificarProd.txtEditarNombreProductor.Text = dgvListar.CurrentRow.Cells["NOM_PRODUC"].Value.ToString();
-                modificarProd.txtEditarApellidoPProductor.Text = dgvListar.CurrentRow.Cells["APELLIDOP_PRODUC"].Value.ToString();
-                modificarProd.txtEditarApellidoMProductor.Text = dgvListar.CurrentRow.Cells["APELLIDOM_PRODUC"].Value.ToString();
-                modificarProd.txtEditarDireccionProductor.Text = dgvListar.CurrentRow.Cells["DIRECCION_PRODUC"].Value.ToString();
-                modificarProd.txtEditarCiudadProductor.Text = dgvListar.CurrentRow.Cells["CIUDAD_PRODUC"].Value.ToString();
-                modificarProd.txtEditarCorreoProductor.Text = dgvListar.CurrentRow.Cells["CORREO_PRODUC"].Value.ToString();
-                modificarProd.txtEditarTelefonoProductor.Text = dgvListar.CurrentRow.Cells["TELEFONO_PRODUC"].Value.ToString();
-                modificarProd.txtEditarContraseñaProductor.Text = dgvListar.CurrentRow.Cells["PASS_PRODUC"].Value.ToString();
-                modificarProd.comboBoxEditarRol.Text = dgvListar.CurrentRow.Cells["ROL_ID_ROL"].Value.ToString();
-                
-                modificarProd.txtIdEditarUsuarioProductor.Enabled = false;
-                modificarProd.txtEditarRutProductor.Enabled = false;
-                modificarProd.txtEditarContratoProductor.Enabled = false;
-                modificarProd.comboBoxEditarRol.Enabled = false;
-                modificarProd.ShowDialog();
+               
             }
             else
                 MessageBox.Show("Seleccione una fila");
@@ -175,23 +157,7 @@ namespace FeriaVirtual
         {
             if (dgvListar.SelectedRows.Count > 0)
             {
-                modificarTrans.txtEditarIdTransportista.Text = dgvListar.CurrentRow.Cells["ID_TRANSP"].Value.ToString();
-                modificarTrans.txtEditarRutTransportista.Text = dgvListar.CurrentRow.Cells["RUT_TRANSP"].Value.ToString();
-                modificarTrans.txtEditarNombreTransportista.Text = dgvListar.CurrentRow.Cells["NOMBRE_TRANSP"].Value.ToString();
-                modificarTrans.txtEditarApellidoPaternoTransp.Text = dgvListar.CurrentRow.Cells["APELLIDOP_TRANSP"].Value.ToString();
-                modificarTrans.txtEditarApellidoMaternoTransp.Text = dgvListar.CurrentRow.Cells["APELLIDOM_TRANSP"].Value.ToString();
-                modificarTrans.txtEditarCorreoTranps.Text = dgvListar.CurrentRow.Cells["CORREO_TRASP"].Value.ToString();
-                modificarTrans.txtEditarTelefonoTransp.Text = dgvListar.CurrentRow.Cells["TELEFONO_TRANSO"].Value.ToString();
-                modificarTrans.txtEditarPatenteTransp.Text = dgvListar.CurrentRow.Cells["PATENTE_VEHICULO"].Value.ToString();
-                modificarTrans.txtEditarCapacidadCarga.Text = dgvListar.CurrentRow.Cells["CAPACIDAD_CARGA"].Value.ToString();
-                modificarTrans.comboBoxEditarRefrigeracion.Text = dgvListar.CurrentRow.Cells["REFRIGERACION"].Value.ToString();
-                modificarTrans.txtEditarContraseñaTransp.Text = dgvListar.CurrentRow.Cells["PASS_TRANSP"].Value.ToString();
-                modificarTrans.comboBoxEditarRol.Text = dgvListar.CurrentRow.Cells["ROL_ID_ROL"].Value.ToString();
-
-                modificarTrans.txtEditarIdTransportista.Enabled = false;
-                modificarTrans.txtEditarRutTransportista.Enabled = false;
-                modificarTrans.comboBoxEditarRol.Enabled = false;
-                modificarTrans.ShowDialog();
+                
             }
             else
                 MessageBox.Show("Seleccione una fila");
@@ -201,7 +167,6 @@ namespace FeriaVirtual
         {
             if (dgvListar.SelectedRows.Count > 0)
             {
-                modificarConsul.txtEditarIdConsultor.Text = dgvListar.CurrentRow.Cells["ID_CONSULTOR"].Value.ToString();
                 modificarConsul.txtEditarRutConsultor.Text = dgvListar.CurrentRow.Cells["RUT_CONSULTOR"].Value.ToString();
                 modificarConsul.txtEditarNombreConsultor.Text = dgvListar.CurrentRow.Cells["NOM_CONSULTOR"].Value.ToString();
                 modificarConsul.txtEditarApellidoPaternoConsultor.Text = dgvListar.CurrentRow.Cells["APELLIDOP_CONSULTOR"].Value.ToString();
@@ -209,11 +174,10 @@ namespace FeriaVirtual
                 modificarConsul.txtEditarTelefonoConsultor.Text = dgvListar.CurrentRow.Cells["NUMERO_CONSULTOR"].Value.ToString();
                 modificarConsul.txtEditarCorreoConsultor.Text = dgvListar.CurrentRow.Cells["CORREO_CONSULTOR"].Value.ToString();
                 modificarConsul.txtEditarContraseñaConsultor.Text = dgvListar.CurrentRow.Cells["PASS_CONSULTOR"].Value.ToString();
-                modificarConsul.comboBoxEditarRol.Text = dgvListar.CurrentRow.Cells["ROL_ID_ROL"].Value.ToString();
+                modificarConsul.textEditarConsulto.Text = dgvListar.CurrentRow.Cells["ROL_ID_ROL"].Value.ToString();
                 
-                modificarConsul.txtEditarIdConsultor.Enabled = false;
                 modificarConsul.txtEditarRutConsultor.Enabled = false;
-                modificarConsul.comboBoxEditarRol.Enabled = false;
+                modificarConsul.textEditarConsulto.Enabled = false;
                 modificarConsul.ShowDialog();
             }
             else
@@ -226,7 +190,6 @@ namespace FeriaVirtual
         {
             if (dgvListar.SelectedRows.Count > 0)
             {
-                modificarAdmin.txtEditarIdAdmin.Text = dgvListar.CurrentRow.Cells["ID_ADMIN"].Value.ToString();
                 modificarAdmin.txtEditarRutAdmin.Text = dgvListar.CurrentRow.Cells["RUT_ADMIN"].Value.ToString();
                 modificarAdmin.txtEditarNombreAdmin.Text = dgvListar.CurrentRow.Cells["NOM_ADMIN"].Value.ToString();
                 modificarAdmin.txtEditarApellidoPAdmin.Text = dgvListar.CurrentRow.Cells["APELLIDOP_ADMIN"].Value.ToString();
@@ -236,7 +199,6 @@ namespace FeriaVirtual
                 modificarAdmin.txtEditarContraseñaAdmin.Text = dgvListar.CurrentRow.Cells["PASS_ADMIN"].Value.ToString();
                 modificarAdmin.comboBoxEditarRol.Text = dgvListar.CurrentRow.Cells["ROL_ID_ROL"].Value.ToString();
                          
-                modificarAdmin.txtEditarIdAdmin.Enabled = false;
                 modificarAdmin.txtEditarRutAdmin.Enabled = false;
                 modificarAdmin.comboBoxEditarRol.Enabled = false;
                 modificarAdmin.ShowDialog();
@@ -251,13 +213,13 @@ namespace FeriaVirtual
 
         private void btnEliminarCliente_Click(object sender, EventArgs e)
         {
-            Cliente clien = new Cliente();
+            ClienteEx clienex = new ClienteEx();
 
             if (dgvListar.SelectedRows.Count > 0)
             {
-                string dato = dgvListar.CurrentRow.Cells["ID_CLIENTE"].Value.ToString();
-                clien.ID_CLIENTE = Convert.ToInt32(dato);
-                if (clien.Eliminar() == 1)
+                string dato = dgvListar.CurrentRow.Cells["RUT_CLIENTE"].Value.ToString();
+                clienex.RUT_CLIENTE = dato;
+                if (clienex.Eliminar() == 1)
                 {
                     MessageBox.Show("Usuario Eliminado");
                     Conn.Close();
@@ -277,8 +239,8 @@ namespace FeriaVirtual
 
             if (dgvListar.SelectedRows.Count > 0)
             {
-                string dato = dgvListar.CurrentRow.Cells["ID_PRODUC"].Value.ToString();
-                produc.ID_PRODUC = Convert.ToInt32(dato);
+                string dato = dgvListar.CurrentRow.Cells["RUT_PRODUC"].Value.ToString();
+                produc.RUT_PRODUC = dato;
                 if (produc.Eliminar() == 1)
                 {
                     MessageBox.Show("Usuario Eliminado");
@@ -300,8 +262,8 @@ namespace FeriaVirtual
 
             if (dgvListar.SelectedRows.Count > 0)
             {
-                string dato = dgvListar.CurrentRow.Cells["ID_TRANSP"].Value.ToString();
-                transp.ID_TRANSP = Convert.ToInt32(dato);
+                string dato = dgvListar.CurrentRow.Cells["RUT_TRANSP"].Value.ToString();
+                transp.RUT_TRANSP = dato;
                 if (transp.Eliminar() == 1)
                 {
                     MessageBox.Show("Usuario Eliminado");
@@ -322,8 +284,8 @@ namespace FeriaVirtual
 
             if (dgvListar.SelectedRows.Count > 0)
             {
-                string dato = dgvListar.CurrentRow.Cells["ID_CONSULTOR"].Value.ToString();
-                consul.ID_CONSULTOR = Convert.ToInt32(dato);
+                string dato = dgvListar.CurrentRow.Cells["RUT_CONSULTOR"].Value.ToString();
+                consul.RUT_CONSULTOR = dato;
                 if (consul.Eliminar() == 1)
                 {
                     MessageBox.Show("Usuario Eliminado");
@@ -345,9 +307,31 @@ namespace FeriaVirtual
 
             if (dgvListar.SelectedRows.Count > 0)
             {
-                string dato = dgvListar.CurrentRow.Cells["ID_ADMIN"].Value.ToString();
-                admin.ID_ADMIN = Convert.ToInt32(dato);
+                string dato = dgvListar.CurrentRow.Cells["RUT_ADMIN"].Value.ToString();
+                admin.RUT_ADMIN = dato;
                 if (admin.Eliminar() == 1)
+                {
+                    MessageBox.Show("Usuario Eliminado");
+                    Conn.Close();
+                }
+                else
+                {
+                    MessageBox.Show("No se pudo eliminar el usuario");
+                }
+            }
+            else
+                MessageBox.Show("Seleccione una fila");
+        }
+
+        private void btnEliminarCliLocal_Click(object sender, EventArgs e)
+        {
+            Cliente clien = new Cliente();
+
+            if (dgvListar.SelectedRows.Count > 0)
+            {
+                string dato = dgvListar.CurrentRow.Cells["RUT_CLI_EX"].Value.ToString();
+                clien.rut_cli_ex = dato;
+                if (clien.Eliminar() == 1)
                 {
                     MessageBox.Show("Usuario Eliminado");
                     Conn.Close();

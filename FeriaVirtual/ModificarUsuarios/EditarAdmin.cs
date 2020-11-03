@@ -21,19 +21,18 @@ namespace FeriaVirtual.ModificarUsuarios
             InitializeComponent();
         }
 
-        OracleConnection Conn = new OracleConnection("DATA SOURCE = xe ;PASSWORD = 1234 ;USER ID = FeriaV");
+        OracleConnection Conn = new OracleConnection("DATA SOURCE = xe ;PASSWORD = 1234 ;USER ID = FeriaVi");
 
         public void ModificarAdministrador(ref Administrador adm)
         {
-            adm.ID_ADMIN = Convert.ToInt32(txtEditarIdAdmin.Text);
-            //adm.RUT_ADMIN = txtEditarRutAdmin.Text;
+            adm.RUT_ADMIN = txtEditarRutAdmin.Text;
             adm.NOM_ADMIN = txtEditarNombreAdmin.Text;
             adm.APELLIDOP_ADMIN = txtEditarApellidoPAdmin.Text;
             adm.APELLIDOM_ADMIN = txtEditarApellidoMAdmin.Text;
             adm.TELEFONO_ADMIN = Convert.ToInt32(txtEditarNumeroAdmin.Text);
             adm.CORREO_ADMIN = txtEditarCorreoAdmin.Text;
             adm.PASS_ADMIN = txtEditarContraseñaAdmin.Text;
-            //adm.ROL_ID_ROL = comboBoxEditarRol.Text;
+            adm.ROL_ID_ROL = comboBoxEditarRol.Text;
         }
 
 

@@ -8,12 +8,15 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
+using System.Data.OracleClient;
 using System.Web.UI.Design.WebControls;
 
 namespace FeriaVirtual
 {
     public partial class Menu : Form
-    {   
+    {
+        OracleConnection Conn = new OracleConnection("DATA SOURCE = xe ;PASSWORD = 1234 ;USER ID = FeriaVi");
+
         public Menu()
         {
             InitializeComponent();
@@ -102,11 +105,7 @@ namespace FeriaVirtual
             showSubMenu(panelSubMenuUsuarios);
         }
 
-        private void btnSolicitudRegistro_Click(object sender, EventArgs e)
-        {
-            AbrirFormularios<Solicitud_de_Registro>();
-            hideSubMenu();
-        }
+       
 
         private void btnRegistroUsuario_Click(object sender, EventArgs e)
         {
@@ -118,16 +117,12 @@ namespace FeriaVirtual
         #region Ventas
         private void btnProcesoVenta_Click(object sender, EventArgs e)
         {
-          //  this.Controls.Add(this.panelContenedor);
-            showSubMenu(this.panelContenedor);
+          //this.Controls.Add(this.panelContenedor);
+          //showSubMenu(this.panelContenedor);
             showSubMenu(panelSubMenuVetas);
         }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-            AbrirFormularios<SolicitudVentas>();
-            hideSubMenu();
-        }
+        
 
 
 
@@ -191,6 +186,7 @@ namespace FeriaVirtual
         {
             AbrirFormularios<Subasta>();
             hideSubMenu();
+            Conn.Close();
         }
     }
 

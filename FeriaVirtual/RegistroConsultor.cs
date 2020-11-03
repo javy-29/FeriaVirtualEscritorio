@@ -74,11 +74,10 @@ namespace FeriaVirtual
         {
 
         }
-        OracleConnection Conn = new OracleConnection("DATA SOURCE = xe ;PASSWORD = 1234 ;USER ID = FeriaV");
+        OracleConnection Conn = new OracleConnection("DATA SOURCE = xe ;PASSWORD = 1234 ;USER ID = FeriaVi");
 
         public void CargarConsultor(ref Consultor consul)
         {
-            consul.ID_CONSULTOR = Convert.ToInt32(txtIdCliente.Text);
             consul.RUT_CONSULTOR = txtRutConsultor.Text;
             consul.NOM_CONSULTOR = txtNombreConsultor.Text;
             consul.APELLIDOP_CONSULTOR = txtApellidoPaternoConsultor.Text;
@@ -86,7 +85,7 @@ namespace FeriaVirtual
             consul.CORREO_CONSULTOR = txtCorreoConsultor.Text;
             consul.NUMERO_CONSULTOR = Convert.ToInt32(txtTelefonoConsultor.Text);
             consul.PASS_CONSULTOR = txtContraseñaConsultor.Text;
-            consul.ROL_ID_ROL = comboBoxRol.Text;
+            consul.ROL_ID_ROL = textConsulto.Text;
 
         }
 

@@ -474,3 +474,411 @@ C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.DALC\obj\Debug\FeriaVirtual
 C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.DALC\obj\Debug\FeriaVirtual.DALC.csproj.CopyComplete
 C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.DALC\obj\Debug\FeriaVirtual.DALC.dll
 C:\Portafolio ESCRITORIO\FeriaVirtual 1\FeriaVirtual.DALC\obj\Debug\FeriaVirtual.DALC.pdb
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\FeriaVirtual.DALC.dll.config
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\FeriaVirtual.DALC.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\FeriaVirtual.DALC.pdb
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\EntityFramework.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\EnvDTE.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\stdole.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\EntityFramework.xml
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\obj\Debug\FeriaVirtual.DALC.csprojAssemblyReference.cache
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\obj\Debug\FeriaVirtual.DALC.csproj.CoreCompileInputs.cache
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\obj\Debug\FeriaVirtual.DALC.csproj.CopyComplete
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\obj\Debug\FeriaVirtual.DALC.dll
+C:\Users\Mauri\Desktop\Portafolio\Desktop\FeriaVirtualEscritorio\FeriaVirtual.DALC\obj\Debug\FeriaVirtual.DALC.pdb
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\FeriaVirtual.DALC.dll.config
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\FeriaVirtual.DALC.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\FeriaVirtual.DALC.pdb
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\EntityFramework.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\EnvDTE.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\stdole.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\EntityFramework.xml
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\obj\Debug\FeriaVirtual.DALC.csprojAssemblyReference.cache
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\obj\Debug\FeriaVirtual.DALC.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\obj\Debug\FeriaVirtual.DALC.csproj.CopyComplete
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\obj\Debug\FeriaVirtual.DALC.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (4)\FeriaVirtualEscritorio\FeriaVirtual.DALC\obj\Debug\FeriaVirtual.DALC.pdb
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\FeriaVirtual.DALC.dll.config
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\FeriaVirtual.DALC.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\FeriaVirtual.DALC.pdb
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\EntityFramework.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\EnvDTE.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\stdole.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\EntityFramework.xml
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\obj\Debug\FeriaVirtual.DALC.csprojAssemblyReference.cache
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\obj\Debug\FeriaVirtual.DALC.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\obj\Debug\FeriaVirtual.DALC.csproj.CopyComplete
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\obj\Debug\FeriaVirtual.DALC.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (5)\FeriaVirtualEscritorio\FeriaVirtual.DALC\obj\Debug\FeriaVirtual.DALC.pdb
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\FeriaVirtual.DALC.dll.config
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\FeriaVirtual.DALC.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\FeriaVirtual.DALC.pdb
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\EntityFramework.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\EnvDTE.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\stdole.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.MSXML.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\EntityFramework.xml
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\obj\Debug\FeriaVirtual.DALC.csprojAssemblyReference.cache
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\obj\Debug\FeriaVirtual.DALC.csproj.CoreCompileInputs.cache
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\obj\Debug\FeriaVirtual.DALC.csproj.CopyComplete
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\obj\Debug\FeriaVirtual.DALC.dll
+C:\Portafolio ESCRITORIO\FeriaVirtualEscritorio\FeriaVirtual.DALC\obj\Debug\FeriaVirtual.DALC.pdb
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\FeriaVirtual.DALC.dll.config
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\FeriaVirtual.DALC.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\FeriaVirtual.DALC.pdb
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\EntityFramework.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\EnvDTE.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\stdole.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\EntityFramework.xml
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\obj\Debug\FeriaVirtual.DALC.csprojAssemblyReference.cache
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\obj\Debug\FeriaVirtual.DALC.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\obj\Debug\FeriaVirtual.DALC.csproj.CopyComplete
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\obj\Debug\FeriaVirtual.DALC.dll
+C:\Users\Brian\Desktop\Nueva carpeta\Nueva carpeta (6) ult\FeriaVirtualEscritorio\FeriaVirtual.DALC\obj\Debug\FeriaVirtual.DALC.pdb
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\FeriaVirtual.DALC.dll.config
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\FeriaVirtual.DALC.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\FeriaVirtual.DALC.pdb
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\EntityFramework.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\EnvDTE.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\stdole.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\Microsoft.MSXML.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\EntityFramework.xml
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\obj\Debug\FeriaVirtual.DALC.csprojAssemblyReference.cache
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\obj\Debug\FeriaVirtual.DALC.csproj.CoreCompileInputs.cache
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\obj\Debug\FeriaVirtual.DALC.csproj.CopyComplete
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\obj\Debug\FeriaVirtual.DALC.dll
+D:\8vo Semestre\Portafolio Escritorio\FeriaVirtualEscritorio\FeriaVirtual.DALC\obj\Debug\FeriaVirtual.DALC.pdb

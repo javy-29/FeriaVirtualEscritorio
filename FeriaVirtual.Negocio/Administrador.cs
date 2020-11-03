@@ -14,10 +14,10 @@ namespace FeriaVirtual.Negocio
 {
     public class Administrador
     {
-        OracleConnection conn = new OracleConnection("DATA SOURCE = xe ; PASSWORD = 1234 ;USER ID = FeriaV");
+        OracleConnection conn = new OracleConnection("DATA SOURCE = xe ; PASSWORD = 1234 ;USER ID = FeriaVi");
 
 
-        public int ID_ADMIN { get; set; }
+     
         public string RUT_ADMIN { get; set; }
         public string NOM_ADMIN { get; set; }
         public string APELLIDOP_ADMIN { get; set; }
@@ -34,17 +34,17 @@ namespace FeriaVirtual.Negocio
         }
         public int Agregar()
         {
-            return new AdministradorDALC().Agregar(this.ID_ADMIN, this.RUT_ADMIN, this.NOM_ADMIN, this.APELLIDOP_ADMIN, this.APELLIDOM_ADMIN, this.TELEFONO_ADMIN, this.CORREO_ADMIN, this.PASS_ADMIN, this.ROL_ID_ROL);
+            return new AdministradorDALC().Agregar( this.RUT_ADMIN, this.NOM_ADMIN, this.APELLIDOP_ADMIN, this.APELLIDOM_ADMIN, this.TELEFONO_ADMIN, this.CORREO_ADMIN, this.PASS_ADMIN, this.ROL_ID_ROL);
         }
 
         public int Modificar()
         {
-            return new AdministradorDALC().Modificar(this.ID_ADMIN, this.NOM_ADMIN, this.APELLIDOP_ADMIN, this.APELLIDOM_ADMIN, this.TELEFONO_ADMIN, this.CORREO_ADMIN, this.PASS_ADMIN);
+            return new AdministradorDALC().Modificar(this.RUT_ADMIN, this.NOM_ADMIN, this.APELLIDOP_ADMIN, this.APELLIDOM_ADMIN, this.TELEFONO_ADMIN, this.CORREO_ADMIN, this.PASS_ADMIN);
         }
 
         public int Eliminar()
         {
-            return new AdministradorDALC().Eliminar(this.ID_ADMIN);
+            return new AdministradorDALC().Eliminar(this.RUT_ADMIN);
         }
 
 

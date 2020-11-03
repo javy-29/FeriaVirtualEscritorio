@@ -11,11 +11,11 @@ namespace FeriaVirtual.DALC
 {
     public class ContratoDALC
     {
-        OracleConnection conn = new OracleConnection("DATA SOURCE = xe ; PASSWORD = 1234 ;USER ID = FeriaV");
+        OracleConnection conn = new OracleConnection("DATA SOURCE = xe ; PASSWORD = 1234 ;USER ID = FeriaVi");
 
         public object DatabaseHelper { get; private set; }
 
-        public int Agregar(int id_contrato, int numero_contrato, string fecha_inicio , string fecha_termino, string vigencia )
+        public int Agregar(int id_contrato, int numero_contrato, string fecha_inicio , string fecha_termino, string vigencia, string productor )
         {
             conn.Open();
             OracleCommand comando = new OracleCommand("PACK_MANT_CONTRATO.SP_AGREGAR_CONTRATO", conn);
@@ -25,6 +25,7 @@ namespace FeriaVirtual.DALC
             comando.Parameters.Add("FECHA_INI", OracleType.NVarChar).Value = fecha_inicio;
             comando.Parameters.Add("FECHA_TER", OracleType.NVarChar).Value = fecha_termino;
             comando.Parameters.Add("VIGEN", OracleType.NVarChar).Value = vigencia;
+            comando.Parameters.Add("PRODUCTOR", OracleType.NVarChar).Value = productor;
 
             int resultado = comando.ExecuteNonQuery();
             return resultado;

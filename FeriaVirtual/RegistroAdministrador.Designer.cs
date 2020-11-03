@@ -47,8 +47,6 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
-            this.txtIdAdmin = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // txtCorreoAdmin
@@ -230,31 +228,11 @@
             this.label1.TabIndex = 62;
             this.label1.Text = "Rut ";
             // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.Location = new System.Drawing.Point(201, 68);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(82, 20);
-            this.label9.TabIndex = 85;
-            this.label9.Text = "Id Usuario";
-            // 
-            // txtIdAdmin
-            // 
-            this.txtIdAdmin.Location = new System.Drawing.Point(308, 68);
-            this.txtIdAdmin.Name = "txtIdAdmin";
-            this.txtIdAdmin.Size = new System.Drawing.Size(238, 20);
-            this.txtIdAdmin.TabIndex = 86;
-            this.txtIdAdmin.TextChanged += new System.EventHandler(this.txtIdAdmin_TextChanged);
-            // 
             // RegistroAdministrador
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.txtIdAdmin);
-            this.Controls.Add(this.label9);
             this.Controls.Add(this.txtCorreoAdmin);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.btnRegistrarAdmin);
@@ -302,7 +280,5 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.TextBox txtIdAdmin;
     }
 }

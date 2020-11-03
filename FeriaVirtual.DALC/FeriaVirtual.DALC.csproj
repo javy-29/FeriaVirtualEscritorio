@@ -69,11 +69,12 @@
   <ItemGroup>
     <Compile Include="AdministradorDALC.cs" />
     <Compile Include="ClienteDALC.cs" />
+    <Compile Include="ClienteExDALC.cs" />
     <Compile Include="ConsultorDALC.cs" />
     <Compile Include="ContratoDALC.cs" />
+    <Compile Include="ContratoVentaDALC.cs" />
     <Compile Include="ProductorDALC.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SolicitudRegistroDALC.cs" />
     <Compile Include="SqlServerTypes\Loader.cs" />
     <Compile Include="TransportistaDALC.cs" />
   </ItemGroup>

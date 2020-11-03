@@ -31,9 +31,6 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(EditarConsultores));
             this.label9 = new System.Windows.Forms.Label();
             this.txtEditarContraseñaConsultor = new System.Windows.Forms.TextBox();
-            this.label6 = new System.Windows.Forms.Label();
-            this.txtEditarIdConsultor = new System.Windows.Forms.TextBox();
-            this.comboBoxEditarRol = new System.Windows.Forms.ComboBox();
             this.label11 = new System.Windows.Forms.Label();
             this.txtEditarCorreoConsultor = new System.Windows.Forms.TextBox();
             this.label7 = new System.Windows.Forms.Label();
@@ -48,6 +45,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.textEditarConsulto = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // label9
@@ -67,43 +65,11 @@
             this.txtEditarContraseñaConsultor.Size = new System.Drawing.Size(238, 20);
             this.txtEditarContraseñaConsultor.TabIndex = 127;
             // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(46, 53);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(80, 20);
-            this.label6.TabIndex = 126;
-            this.label6.Text = "Id Cliente";
-            // 
-            // txtEditarIdConsultor
-            // 
-            this.txtEditarIdConsultor.Location = new System.Drawing.Point(132, 53);
-            this.txtEditarIdConsultor.Name = "txtEditarIdConsultor";
-            this.txtEditarIdConsultor.Size = new System.Drawing.Size(238, 20);
-            this.txtEditarIdConsultor.TabIndex = 125;
-            // 
-            // comboBoxEditarRol
-            // 
-            this.comboBoxEditarRol.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.comboBoxEditarRol.FormattingEnabled = true;
-            this.comboBoxEditarRol.Items.AddRange(new object[] {
-            "Administrador ",
-            "Consultor ",
-            "Productor",
-            "Transportista",
-            "Cliente"});
-            this.comboBoxEditarRol.Location = new System.Drawing.Point(461, 55);
-            this.comboBoxEditarRol.Name = "comboBoxEditarRol";
-            this.comboBoxEditarRol.Size = new System.Drawing.Size(238, 21);
-            this.comboBoxEditarRol.TabIndex = 124;
-            // 
             // label11
             // 
             this.label11.AutoSize = true;
             this.label11.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label11.Location = new System.Drawing.Point(424, 53);
+            this.label11.Location = new System.Drawing.Point(409, 74);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(31, 20);
             this.label11.TabIndex = 123;
@@ -226,16 +192,22 @@
             this.label1.TabIndex = 108;
             this.label1.Text = "Rut ";
             // 
+            // textEditarConsulto
+            // 
+            this.textEditarConsulto.Location = new System.Drawing.Point(466, 74);
+            this.textEditarConsulto.Multiline = true;
+            this.textEditarConsulto.Name = "textEditarConsulto";
+            this.textEditarConsulto.Size = new System.Drawing.Size(238, 20);
+            this.textEditarConsulto.TabIndex = 129;
+            // 
             // EditarConsultores
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.textEditarConsulto);
             this.Controls.Add(this.label9);
             this.Controls.Add(this.txtEditarContraseñaConsultor);
-            this.Controls.Add(this.label6);
-            this.Controls.Add(this.txtEditarIdConsultor);
-            this.Controls.Add(this.comboBoxEditarRol);
             this.Controls.Add(this.label11);
             this.Controls.Add(this.txtEditarCorreoConsultor);
             this.Controls.Add(this.label7);
@@ -260,7 +232,6 @@
         #endregion
 
         private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Button btnRegistrarConsultor;
@@ -270,13 +241,12 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
         public System.Windows.Forms.TextBox txtEditarContraseñaConsultor;
-        public System.Windows.Forms.TextBox txtEditarIdConsultor;
-        public System.Windows.Forms.ComboBox comboBoxEditarRol;
         public System.Windows.Forms.TextBox txtEditarCorreoConsultor;
         public System.Windows.Forms.TextBox txtEditarTelefonoConsultor;
         public System.Windows.Forms.TextBox txtEditarApellidoMaternoConsultor;
         public System.Windows.Forms.TextBox txtEditarApellidoPaternoConsultor;
         public System.Windows.Forms.TextBox txtEditarNombreConsultor;
         public System.Windows.Forms.TextBox txtEditarRutConsultor;
+        public System.Windows.Forms.TextBox textEditarConsulto;
     }
 }

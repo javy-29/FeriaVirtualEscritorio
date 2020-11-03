@@ -43,12 +43,10 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.comboBoxRol = new System.Windows.Forms.ComboBox();
             this.label11 = new System.Windows.Forms.Label();
-            this.txtIdCliente = new System.Windows.Forms.TextBox();
-            this.label6 = new System.Windows.Forms.Label();
             this.txtContraseñaConsultor = new System.Windows.Forms.TextBox();
             this.label9 = new System.Windows.Forms.Label();
+            this.textConsulto = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // txtCorreoConsultor
@@ -118,7 +116,7 @@
             // 
             // txtRutConsultor
             // 
-            this.txtRutConsultor.Location = new System.Drawing.Point(303, 114);
+            this.txtRutConsultor.Location = new System.Drawing.Point(305, 112);
             this.txtRutConsultor.Name = "txtRutConsultor";
             this.txtRutConsultor.Size = new System.Drawing.Size(238, 20);
             this.txtRutConsultor.TabIndex = 91;
@@ -186,22 +184,6 @@
             this.label1.TabIndex = 85;
             this.label1.Text = "Rut ";
             // 
-            // comboBoxRol
-            // 
-            this.comboBoxRol.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.comboBoxRol.FormattingEnabled = true;
-            this.comboBoxRol.Items.AddRange(new object[] {
-            "Administrador ",
-            "Consultor ",
-            "Productor",
-            "Transportista",
-            "Cliente"});
-            this.comboBoxRol.Location = new System.Drawing.Point(305, 320);
-            this.comboBoxRol.Name = "comboBoxRol";
-            this.comboBoxRol.Size = new System.Drawing.Size(238, 21);
-            this.comboBoxRol.TabIndex = 103;
-            this.comboBoxRol.SelectedIndexChanged += new System.EventHandler(this.comboBoxRol_SelectedIndexChanged);
-            // 
             // label11
             // 
             this.label11.AutoSize = true;
@@ -211,24 +193,6 @@
             this.label11.Size = new System.Drawing.Size(31, 20);
             this.label11.TabIndex = 102;
             this.label11.Text = "Rol";
-            // 
-            // txtIdCliente
-            // 
-            this.txtIdCliente.Location = new System.Drawing.Point(303, 84);
-            this.txtIdCliente.Name = "txtIdCliente";
-            this.txtIdCliente.Size = new System.Drawing.Size(238, 20);
-            this.txtIdCliente.TabIndex = 104;
-            this.txtIdCliente.TextChanged += new System.EventHandler(this.txtIdCliente_TextChanged);
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(183, 84);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(97, 20);
-            this.label6.TabIndex = 105;
-            this.label6.Text = "Id Consultor";
             // 
             // txtContraseñaConsultor
             // 
@@ -248,16 +212,22 @@
             this.label9.TabIndex = 107;
             this.label9.Text = "Contraseña";
             // 
+            // textConsulto
+            // 
+            this.textConsulto.Location = new System.Drawing.Point(305, 316);
+            this.textConsulto.Multiline = true;
+            this.textConsulto.Name = "textConsulto";
+            this.textConsulto.Size = new System.Drawing.Size(238, 20);
+            this.textConsulto.TabIndex = 108;
+            // 
             // RegistrarConsultor
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.textConsulto);
             this.Controls.Add(this.label9);
             this.Controls.Add(this.txtContraseñaConsultor);
-            this.Controls.Add(this.label6);
-            this.Controls.Add(this.txtIdCliente);
-            this.Controls.Add(this.comboBoxRol);
             this.Controls.Add(this.label11);
             this.Controls.Add(this.txtCorreoConsultor);
             this.Controls.Add(this.label7);
@@ -296,11 +266,9 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.ComboBox comboBoxRol;
         private System.Windows.Forms.Label label11;
-        private System.Windows.Forms.TextBox txtIdCliente;
-        private System.Windows.Forms.Label label6;
         private System.Windows.Forms.TextBox txtContraseñaConsultor;
         private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.TextBox textConsulto;
     }
 }

@@ -28,9 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ProcesosDeVentas));
-            this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -44,44 +42,14 @@
             this.richTextBox2 = new System.Windows.Forms.RichTextBox();
             this.button4 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.textBox4 = new System.Windows.Forms.TextBox();
             this.button5 = new System.Windows.Forms.Button();
             this.btnCerrarUsuario = new System.Windows.Forms.Button();
-            this.dataSetBDA = new FeriaVirtual.DataSetBDA();
-            this.pROCESOVENTABindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.pROCESO_VENTATableAdapter = new FeriaVirtual.DataSetBDATableAdapters.PROCESO_VENTATableAdapter();
-            this.dataSetProcesosVenta = new FeriaVirtual.DataSetProcesosVenta();
-            this.pROCESOVENTABindingSource1 = new System.Windows.Forms.BindingSource(this.components);
-            this.pROCESO_VENTATableAdapter1 = new FeriaVirtual.DataSetProcesosVentaTableAdapters.PROCESO_VENTATableAdapter();
-            this.iDPROCESODataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.iNFORMACIONVENTADataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.oFERTAPRODDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.pRODUCTORIDPRODUCDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.cONTRATOVENTAIDCONTDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dataSetBDA)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pROCESOVENTABindingSource)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dataSetProcesosVenta)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pROCESOVENTABindingSource1)).BeginInit();
+            this.btnActualizarProcVenta = new System.Windows.Forms.Button();
+            this.dgvProcesoVenta = new System.Windows.Forms.DataGridView();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvProcesoVenta)).BeginInit();
             this.SuspendLayout();
-            // 
-            // dataGridView1
-            // 
-            this.dataGridView1.AutoGenerateColumns = false;
-            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.iDPROCESODataGridViewTextBoxColumn,
-            this.iNFORMACIONVENTADataGridViewTextBoxColumn,
-            this.oFERTAPRODDataGridViewTextBoxColumn,
-            this.pRODUCTORIDPRODUCDataGridViewTextBoxColumn,
-            this.cONTRATOVENTAIDCONTDataGridViewTextBoxColumn});
-            this.dataGridView1.DataSource = this.pROCESOVENTABindingSource1;
-            this.dataGridView1.Location = new System.Drawing.Point(22, 155);
-            this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(514, 421);
-            this.dataGridView1.TabIndex = 0;
             // 
             // label1
             // 
@@ -209,21 +177,6 @@
             this.button3.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.button3.UseVisualStyleBackColor = false;
             // 
-            // button2
-            // 
-            this.button2.BackColor = System.Drawing.Color.YellowGreen;
-            this.button2.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.button2.Font = new System.Drawing.Font("Century Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Image = ((System.Drawing.Image)(resources.GetObject("button2.Image")));
-            this.button2.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button2.Location = new System.Drawing.Point(811, 516);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(91, 60);
-            this.button2.TabIndex = 71;
-            this.button2.Text = "Limpiar";
-            this.button2.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.button2.UseVisualStyleBackColor = false;
-            // 
             // button1
             // 
             this.button1.BackColor = System.Drawing.Color.YellowGreen;
@@ -231,7 +184,7 @@
             this.button1.Font = new System.Drawing.Font("Century Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.Image = ((System.Drawing.Image)(resources.GetObject("button1.Image")));
             this.button1.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button1.Location = new System.Drawing.Point(908, 516);
+            this.button1.Location = new System.Drawing.Point(903, 516);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(91, 60);
             this.button1.TabIndex = 70;
@@ -271,75 +224,42 @@
             this.btnCerrarUsuario.UseVisualStyleBackColor = true;
             this.btnCerrarUsuario.Click += new System.EventHandler(this.btnCerrarUsuario_Click);
             // 
-            // dataSetBDA
+            // btnActualizarProcVenta
             // 
-            this.dataSetBDA.DataSetName = "DataSetBDA";
-            this.dataSetBDA.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            this.btnActualizarProcVenta.BackColor = System.Drawing.Color.YellowGreen;
+            this.btnActualizarProcVenta.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnActualizarProcVenta.Font = new System.Drawing.Font("Century Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnActualizarProcVenta.Image = ((System.Drawing.Image)(resources.GetObject("btnActualizarProcVenta.Image")));
+            this.btnActualizarProcVenta.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.btnActualizarProcVenta.Location = new System.Drawing.Point(806, 516);
+            this.btnActualizarProcVenta.Name = "btnActualizarProcVenta";
+            this.btnActualizarProcVenta.Size = new System.Drawing.Size(91, 60);
+            this.btnActualizarProcVenta.TabIndex = 77;
+            this.btnActualizarProcVenta.Text = "Actualizar";
+            this.btnActualizarProcVenta.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.btnActualizarProcVenta.UseVisualStyleBackColor = false;
+            this.btnActualizarProcVenta.Click += new System.EventHandler(this.btnActualizarProcVenta_Click);
             // 
-            // pROCESOVENTABindingSource
+            // dgvProcesoVenta
             // 
-            this.pROCESOVENTABindingSource.DataMember = "PROCESO_VENTA";
-            this.pROCESOVENTABindingSource.DataSource = this.dataSetBDA;
-            // 
-            // pROCESO_VENTATableAdapter
-            // 
-            this.pROCESO_VENTATableAdapter.ClearBeforeFill = true;
-            // 
-            // dataSetProcesosVenta
-            // 
-            this.dataSetProcesosVenta.DataSetName = "DataSetProcesosVenta";
-            this.dataSetProcesosVenta.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
-            // 
-            // pROCESOVENTABindingSource1
-            // 
-            this.pROCESOVENTABindingSource1.DataMember = "PROCESO_VENTA";
-            this.pROCESOVENTABindingSource1.DataSource = this.dataSetProcesosVenta;
-            // 
-            // pROCESO_VENTATableAdapter1
-            // 
-            this.pROCESO_VENTATableAdapter1.ClearBeforeFill = true;
-            // 
-            // iDPROCESODataGridViewTextBoxColumn
-            // 
-            this.iDPROCESODataGridViewTextBoxColumn.DataPropertyName = "ID_PROCESO";
-            this.iDPROCESODataGridViewTextBoxColumn.HeaderText = "ID_PROCESO";
-            this.iDPROCESODataGridViewTextBoxColumn.Name = "iDPROCESODataGridViewTextBoxColumn";
-            // 
-            // iNFORMACIONVENTADataGridViewTextBoxColumn
-            // 
-            this.iNFORMACIONVENTADataGridViewTextBoxColumn.DataPropertyName = "INFORMACION_VENTA";
-            this.iNFORMACIONVENTADataGridViewTextBoxColumn.HeaderText = "INFORMACION_VENTA";
-            this.iNFORMACIONVENTADataGridViewTextBoxColumn.Name = "iNFORMACIONVENTADataGridViewTextBoxColumn";
-            // 
-            // oFERTAPRODDataGridViewTextBoxColumn
-            // 
-            this.oFERTAPRODDataGridViewTextBoxColumn.DataPropertyName = "OFERTA_PROD";
-            this.oFERTAPRODDataGridViewTextBoxColumn.HeaderText = "OFERTA_PROD";
-            this.oFERTAPRODDataGridViewTextBoxColumn.Name = "oFERTAPRODDataGridViewTextBoxColumn";
-            // 
-            // pRODUCTORIDPRODUCDataGridViewTextBoxColumn
-            // 
-            this.pRODUCTORIDPRODUCDataGridViewTextBoxColumn.DataPropertyName = "PRODUCTOR_ID_PRODUC";
-            this.pRODUCTORIDPRODUCDataGridViewTextBoxColumn.HeaderText = "PRODUCTOR_ID_PRODUC";
-            this.pRODUCTORIDPRODUCDataGridViewTextBoxColumn.Name = "pRODUCTORIDPRODUCDataGridViewTextBoxColumn";
-            // 
-            // cONTRATOVENTAIDCONTDataGridViewTextBoxColumn
-            // 
-            this.cONTRATOVENTAIDCONTDataGridViewTextBoxColumn.DataPropertyName = "CONTRATO_VENTA_ID_CONT";
-            this.cONTRATOVENTAIDCONTDataGridViewTextBoxColumn.HeaderText = "CONTRATO_VENTA_ID_CONT";
-            this.cONTRATOVENTAIDCONTDataGridViewTextBoxColumn.Name = "cONTRATOVENTAIDCONTDataGridViewTextBoxColumn";
+            this.dgvProcesoVenta.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvProcesoVenta.Location = new System.Drawing.Point(22, 155);
+            this.dgvProcesoVenta.Name = "dgvProcesoVenta";
+            this.dgvProcesoVenta.Size = new System.Drawing.Size(552, 421);
+            this.dgvProcesoVenta.TabIndex = 78;
             // 
             // ProcesosDeVentas
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1050, 600);
+            this.Controls.Add(this.dgvProcesoVenta);
+            this.Controls.Add(this.btnActualizarProcVenta);
             this.Controls.Add(this.btnCerrarUsuario);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.textBox4);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.richTextBox2);
             this.Controls.Add(this.richTextBox1);
@@ -352,24 +272,17 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.dataGridView1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "ProcesosDeVentas";
             this.Text = "ProcesosDeVentas";
             this.Load += new System.EventHandler(this.ProcesosDeVentas_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dataSetBDA)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pROCESOVENTABindingSource)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.dataSetProcesosVenta)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pROCESOVENTABindingSource1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvProcesoVenta)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
         }
 
         #endregion
-
-        private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
@@ -383,21 +296,11 @@
         private System.Windows.Forms.RichTextBox richTextBox2;
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.TextBox textBox4;
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Button btnCerrarUsuario;
-        private DataSetBDA dataSetBDA;
-        private System.Windows.Forms.BindingSource pROCESOVENTABindingSource;
-        private DataSetBDATableAdapters.PROCESO_VENTATableAdapter pROCESO_VENTATableAdapter;
-        private DataSetProcesosVenta dataSetProcesosVenta;
-        private System.Windows.Forms.BindingSource pROCESOVENTABindingSource1;
-        private DataSetProcesosVentaTableAdapters.PROCESO_VENTATableAdapter pROCESO_VENTATableAdapter1;
-        private System.Windows.Forms.DataGridViewTextBoxColumn iDPROCESODataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewTextBoxColumn iNFORMACIONVENTADataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewTextBoxColumn oFERTAPRODDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewTextBoxColumn pRODUCTORIDPRODUCDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewTextBoxColumn cONTRATOVENTAIDCONTDataGridViewTextBoxColumn;
+        private System.Windows.Forms.Button btnActualizarProcVenta;
+        private System.Windows.Forms.DataGridView dgvProcesoVenta;
     }
 }

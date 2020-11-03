@@ -115,31 +115,6 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>DataSet1.xsd</DependentUpon>
     </Compile>
-    <Compile Include="DataSetBDA.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>DataSetBDA.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="DataSetContratoVentas.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>DataSetContratoVentas.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="DataSetProcesosVenta.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>DataSetProcesosVenta.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="DataSetSolicitudRegistro.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>DataSetSolicitudRegistro.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="DataSetSolicitudVentas.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>DataSetSolicitudVentas.xsd</DependentUpon>
-    </Compile>
     <Compile Include="Login.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -158,12 +133,6 @@
     <Compile Include="ModificarUsuarios\EditarAdmin.Designer.cs">
       <DependentUpon>EditarAdmin.cs</DependentUpon>
     </Compile>
-    <Compile Include="ModificarUsuarios\EditarCliente.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="ModificarUsuarios\EditarCliente.Designer.cs">
-      <DependentUpon>EditarCliente.cs</DependentUpon>
-    </Compile>
     <Compile Include="ModificarUsuarios\EditarConsultores.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -176,17 +145,11 @@
     <Compile Include="ModificarUsuarios\EditarContratoProductores.Designer.cs">
       <DependentUpon>EditarContratoProductores.cs</DependentUpon>
     </Compile>
-    <Compile Include="ModificarUsuarios\EditarProductores.cs">
+    <Compile Include="ModificarUsuarios\ModificarContratoVenta.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ModificarUsuarios\EditarProductores.Designer.cs">
-      <DependentUpon>EditarProductores.cs</DependentUpon>
-    </Compile>
-    <Compile Include="ModificarUsuarios\EditarTransportista.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="ModificarUsuarios\EditarTransportista.Designer.cs">
-      <DependentUpon>EditarTransportista.cs</DependentUpon>
+    <Compile Include="ModificarUsuarios\ModificarContratoVenta.Designer.cs">
+      <DependentUpon>ModificarContratoVenta.cs</DependentUpon>
     </Compile>
     <Compile Include="ProcesosDeVentas.cs">
       <SubType>Form</SubType>
@@ -214,47 +177,17 @@
     <Compile Include="RegistroAdministrador.Designer.cs">
       <DependentUpon>RegistroAdministrador.cs</DependentUpon>
     </Compile>
-    <Compile Include="RegistroCliente.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="RegistroCliente.Designer.cs">
-      <DependentUpon>RegistroCliente.cs</DependentUpon>
-    </Compile>
     <Compile Include="RegistroConsultor.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="RegistroConsultor.Designer.cs">
       <DependentUpon>RegistroConsultor.cs</DependentUpon>
     </Compile>
-    <Compile Include="RegistroProductores.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="RegistroProductores.Designer.cs">
-      <DependentUpon>RegistroProductores.cs</DependentUpon>
-    </Compile>
-    <Compile Include="RegistroTransportista.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="RegistroTransportista.Designer.cs">
-      <DependentUpon>RegistroTransportista.cs</DependentUpon>
-    </Compile>
     <Compile Include="Reportes.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Reportes.Designer.cs">
       <DependentUpon>Reportes.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Solicitud de Registro.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Solicitud de Registro.Designer.cs">
-      <DependentUpon>Solicitud de Registro.cs</DependentUpon>
-    </Compile>
-    <Compile Include="SolicitudVentas.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="SolicitudVentas.Designer.cs">
-      <DependentUpon>SolicitudVentas.cs</DependentUpon>
     </Compile>
     <Compile Include="SqlServerTypes\Loader.cs" />
     <Compile Include="Subasta.cs">
@@ -284,20 +217,14 @@
     <EmbeddedResource Include="ModificarUsuarios\EditarAdmin.resx">
       <DependentUpon>EditarAdmin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ModificarUsuarios\EditarCliente.resx">
-      <DependentUpon>EditarCliente.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="ModificarUsuarios\EditarConsultores.resx">
       <DependentUpon>EditarConsultores.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ModificarUsuarios\EditarContratoProductores.resx">
       <DependentUpon>EditarContratoProductores.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ModificarUsuarios\EditarProductores.resx">
-      <DependentUpon>EditarProductores.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="ModificarUsuarios\EditarTransportista.resx">
-      <DependentUpon>EditarTransportista.cs</DependentUpon>
+    <EmbeddedResource Include="ModificarUsuarios\ModificarContratoVenta.resx">
+      <DependentUpon>ModificarContratoVenta.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ProcesosDeVentas.resx">
       <DependentUpon>ProcesosDeVentas.cs</DependentUpon>
@@ -320,27 +247,12 @@
     <EmbeddedResource Include="RegistroAdministrador.resx">
       <DependentUpon>RegistroAdministrador.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="RegistroCliente.resx">
-      <DependentUpon>RegistroCliente.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="RegistroConsultor.resx">
       <DependentUpon>RegistroConsultor.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="RegistroProductores.resx">
-      <DependentUpon>RegistroProductores.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="RegistroTransportista.resx">
-      <DependentUpon>RegistroTransportista.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Reportes.rdlc" />
     <EmbeddedResource Include="Reportes.resx">
       <DependentUpon>Reportes.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Solicitud de Registro.resx">
-      <DependentUpon>Solicitud de Registro.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="SolicitudVentas.resx">
-      <DependentUpon>SolicitudVentas.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Subasta.resx">
       <DependentUpon>Subasta.cs</DependentUpon>
@@ -358,61 +270,6 @@
     </None>
     <None Include="DataSet1.xss">
       <DependentUpon>DataSet1.xsd</DependentUpon>
-    </None>
-    <None Include="DataSetBDA.xsc">
-      <DependentUpon>DataSetBDA.xsd</DependentUpon>
-    </None>
-    <None Include="DataSetBDA.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>DataSetBDA.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="DataSetBDA.xss">
-      <DependentUpon>DataSetBDA.xsd</DependentUpon>
-    </None>
-    <None Include="DataSetContratoVentas.xsc">
-      <DependentUpon>DataSetContratoVentas.xsd</DependentUpon>
-    </None>
-    <None Include="DataSetContratoVentas.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>DataSetContratoVentas.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="DataSetContratoVentas.xss">
-      <DependentUpon>DataSetContratoVentas.xsd</DependentUpon>
-    </None>
-    <None Include="DataSetProcesosVenta.xsc">
-      <DependentUpon>DataSetProcesosVenta.xsd</DependentUpon>
-    </None>
-    <None Include="DataSetProcesosVenta.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>DataSetProcesosVenta.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="DataSetProcesosVenta.xss">
-      <DependentUpon>DataSetProcesosVenta.xsd</DependentUpon>
-    </None>
-    <None Include="DataSetSolicitudRegistro.xsc">
-      <DependentUpon>DataSetSolicitudRegistro.xsd</DependentUpon>
-    </None>
-    <None Include="DataSetSolicitudRegistro.xsd">
-      <SubType>Designer</SubType>
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>DataSetSolicitudRegistro.Designer.cs</LastGenOutput>
-    </None>
-    <None Include="DataSetSolicitudRegistro.xss">
-      <DependentUpon>DataSetSolicitudRegistro.xsd</DependentUpon>
-    </None>
-    <None Include="DataSetSolicitudVentas.xsc">
-      <DependentUpon>DataSetSolicitudVentas.xsd</DependentUpon>
-    </None>
-    <None Include="DataSetSolicitudVentas.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>DataSetSolicitudVentas.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="DataSetSolicitudVentas.xss">
-      <DependentUpon>DataSetSolicitudVentas.xsd</DependentUpon>
     </None>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">

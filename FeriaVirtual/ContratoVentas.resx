@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="button4.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="btnRegistrarContratoVenta.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAEAAAAAyCAYAAADsg90UAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
         wwAADsMBx2+oZAAAAQtJREFUaEPt1gFKw0AUBNBYtVZbaXsC79AL6AH0/sexM8aFz/KTbLJQ8rfzYCDN
@@ -129,7 +129,7 @@
         gg==
 </value>
   </data>
-  <data name="button3.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="btnEditarContratoVenta.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAADAAAAA/CAYAAACmVEtSAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
         wwAADsMBx2+oZAAAAqJJREFUaEPtl7+L1EAUx7N3iwd7+OPOZUMuM/MmyVksCAongiiIjWIpVoJ6hYKN
@@ -146,21 +146,7 @@
         c1jEJ5vN5vZ0XEEQBEEQBEEQBEEQBEHYKnjeXyJeiioqHTuGAAAAAElFTkSuQmCC
 </value>
   </data>
-  <data name="button2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
-        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAALP6AACz+gFmujCYAAABtklE
-        QVRYR93XyysFUQDH8YuI2HgsPP4Bj8hCCgtsZOFPoFgQeyUs7GwoG68srOSubSQ7ZWPhsfAPeGwU2QiR
-        x/c3zanbba575s44Hr/6NDmdM/Nr5ppH4rcnHwX+NiyzLqc0YQlbSEawjQ30IVQW8BGjfZTAOqvQwnOs
-        +H+HtYwDaD8nqIB1tAMt1DZKJqD9nKFSA7b5dwVOkbFAEYaxBh1Q11zXXgvj+g3cYhMa13GmUAUvHbiB
-        JrryhkF46ccDgiZ+p3F4cVHgFY94TxlzVuAFc+jFoT8mzgrcoQ3KOsy4swI67buYx5U/Jk5/A0H+RoEj
-        zGAW0yFojbY7CNqvWBXQnUspRA3qLJVCMbfiIKEKNEIPlEtcZKE55i5nVaAe5t6fzhRohe7nQXOC6MBK
-        pgL3GICXPDRjBFqgZuYhYgroSTaEMYxmoTk6Y4opoH+/SWjf0gM9BDNGB04toGvaji5L1VBMgS8fx0FJ
-        L9CCazzjKQvN0ZlQTIHILyQ/XqAMnei2oOtbCyW2ArkmcoG4XsmOUQ7rLEIL47KHYlinAfo6iuPTTO8A
-        ehnJKakfmWFF+jh1lETiE0fl95q5GF8nAAAAAElFTkSuQmCC
-</value>
-  </data>
-  <data name="button1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="btnEliminarContratoVenta.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABcAAAAgCAYAAAD5VeO1AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
         xAAADsQBlSsOGwAAAM9JREFUSEvt1s0KAWEUxvGxZKXsbV2EcgtSFm5AycrCig075RqsJNdgwU1gY2cp
@@ -185,10 +171,7 @@
         TUsxZSZT47u6ul6lYfgFw1RJMrmD3YgAAAAASUVORK5CYII=
 </value>
   </data>
-  <metadata name="dataSetContratoVentas.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
-  <metadata name="cONTRATO_VENTATableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>425, 17</value>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>25</value>
   </metadata>
 </root>

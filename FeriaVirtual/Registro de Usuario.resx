@@ -163,36 +163,4 @@
         t5uMRmOUfoOzZWtnHT0Ddb87Ojquit0zGAwGg8FgMBjpotP9A7ptJSjvWsHyAAAAAElFTkSuQmCC
 </value>
   </data>
-  <data name="btnTransportista.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        wwAADsMBx2+oZAAAAPRJREFUaEPtzl0KgkAUBWB9qG0EvQS5SVfhm+KTgitxVxaaINPJGbk/QpwPDpr3
-        TmcyIiIiIiJvk0FOgS4izSnQRaQ5BbqINC5QsXbMoVKLmNorC2fSmIkVhXNpTKSUhDvSqEstCPekUTf/
-        cZ7n0zAMt6qq7k3TFG3bFl3XFXVdP5a1r4tIow6VeEQdKvGIOlTiEXWoxCPqUIlH1KESj5iIFaG5NOpS
-        S9DeXrZicxWpJWjvV5CUHTV7JfOs7/vL8hOKnl9e7a1lYeGv76G9nZTzqtZClBRo98h5HeM4Pt+PtXib
-        I6TndZRlef28EhEREdHfyrIX4BwtMzegc0MAAAAASUVORK5CYII=
-</value>
-  </data>
-  <data name="btnProductores.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAACYAAAAwCAYAAAB9sggoAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        wwAADsMBx2+oZAAAAM1JREFUWEftzkEKQjEMBNAeQ7z/4VyI7j+IJkohlFg600aK5MGAtj/TlJQ28AwM
-        zStbHZhXEhUINQTKxVD/udgvAvEKogLxCqIyZUXJkkVauRgqF0PlYqhtFjtJalFk9B2IVxIViFcQFQg9
-        OIjupwcH0f304CC6nx4cRPfTg4PofjsYHYhXEBXIWdIWPCTWRfKtWM/13tJ526fRd6bUIusqac8qPdd7
-        y+tYQkuPz89yl/Qeqne397/+t9NquU0P+v0U9BH0+5RSSmkfpbwAVnudVx7Pb3YAAAAASUVORK5CYII=
-</value>
-  </data>
-  <data name="btnClienteUsuario.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        wwAADsMBx2+oZAAAAZpJREFUaEPt1rluwkAQBmAfUopUaUKkXEaRUuZB8jqpEQ9BCw00CCEhjo6zoOGt
-        nBmLQbvLeEgWr5NiPunX4vkl7wZF2JFSSimllFKqAnlJ/qfFYnG/Wq3ej5eE+wPMnCyXy+bhcHg9Xv4Z
-        64CtVivFIX6+EBRDrHm/37+BtXbWIeI4xvXscEJQ2bw20gG4jguRuuCkzbmOC5G64KTNuY4LkbrgpM25
-        jguRuuAubc71bojU1UI6ANeZIdY8TdO83W7fYlE36yA4MLgdpbDdbr9gOc2TJMnn8/kddrXZ7XbPsJiH
-        y/f7/RusxOrczGazBNao2+0+mHMjYa3X6xdYrE3hFcV8PbG6H8RkddPp9AOHIdDT2wxx578NOesGgwF+
-        eZVyNyn+PYA798pkMmnAGjFfFqZSZTd3574hUleJspu7c98QqatE2c3duW+I1FWi7Obu3DdE6q4X8BeL
-        QqTueuPxuDEajZrw65J1Oh18IBJuY58Uer3eE+yTDYfDDPZ6PI5rUTxf8BUDg9c+2Ww2n7AqpZRSSiml
-        Loiib71T8iA0yI5OAAAAAElFTkSuQmCC
-</value>
-  </data>
 </root>
